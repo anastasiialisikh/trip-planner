@@ -1,0 +1,26 @@
+.item {
+	padding: 20px;
+	border: 2px solid black;
+	background-color: white;
+}
+
+.title {
+	font-size: 25px;
+	font-weight: bold;
+	font-family: cursive;
+	color: #5e63c7;
+}
+
+.info {
+	display: flex;
+	justify-content: space-between;
+	margin: 15px 0;
+}
+
+.icon {
+	color: #6eb5b7;
+	font-size: 22px;
+	height: 100%;
+	vertical-align: bottom;
+	margin-right: 5px;
+}

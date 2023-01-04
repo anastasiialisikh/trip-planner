@@ -1,0 +1,13 @@
+.main {
+	display: flex;
+	justify-content: center;
+	height: 100vh;
+}
+
+.container {
+	max-width: 70rem;
+	min-width: 45%;
+	overflow: scroll;
+	background-color: rgb(6 21 64 / 60%);
+	padding: 0 2rem 2rem;
+}

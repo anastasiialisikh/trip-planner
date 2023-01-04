@@ -1,0 +1,12 @@
+.item {
+	color: #6eb5b7
+}
+
+.circle {
+	width: 20px;
+	height: 20px;
+	border: 1px solid #6eb5b7;
+	border-radius: 50%;
+	padding: 5px;
+	text-align: center;
+}
