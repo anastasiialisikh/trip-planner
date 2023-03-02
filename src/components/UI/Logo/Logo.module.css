@@ -4,3 +4,8 @@
 	max-width: 500px;
 	margin: 0 auto;
 }
+
+.logo.small {
+	width: 40%;
+	margin: 0;
+}
